@@ -1,19 +1,26 @@
-Project Name: Sales Profitability Optimization Dashboard
+# Sales Profitability Optimization Dashboard
 
-Tools Used: • Excel • SQL • Power BI
+## Tools Used
+- Excel
+- SQL
+- Power BI
 
-Project Objective: Analyze sales, profit, customer behavior, regional performance, and product profitability to identify business insights and profitability improvement opportunities.
+## Project Objective
+Analyze sales, profit, customer behavior, regional performance and product profitability.
 
-Project Workflow:
+## Key Insights
+- Technology category generated highest profit
+- High discounts negatively affected profitability
+- West region contributed highest sales
+- Top customers generated major revenue
 
-Data Cleaning in Excel
-SQL Analysis
-Power BI Dashboard Creation
-Business Insights & Recommendations
-Dashboard Pages: • Executive Summary • Product Analysis • Customer & Region Analysis
+# Dashboard Screenshots
 
-Key Features: • KPI Cards • Sales Trend Analysis • Product Profitability Analysis • Loss Making Products • Customer Contribution Analysis • Region-wise Performance • Interactive Filters • Business Insights
+## Executive Summary
+![Executive Summary](Executive_Summary.png)
 
-Business Insights: • Technology category generated highest profit. • Higher discounts negatively affected profitability. • Some furniture products generated losses. • West region contributed highest sales. • Top customers contributed major revenue.
+## Product Analysis
+![Product Analysis](Product_Analysis.png)
 
-Created By: Karan Kadam
+## Customer & Region Analysis
+![Customer Region Analysis](Customer_Region_Analysis.png)
