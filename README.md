@@ -1,6 +1,6 @@
 # 📊 Sales Profitability Optimization Dashboard
 
-> **End-to-end analytics project** on 9,994 retail transactions to uncover profit leakage, identify top-performing segments, and deliver actionable business recommendations.
+> **End-to-end analytics project** on 9,993 retail transactions to uncover profit leakage, identify top-performing segments, and deliver actionable business recommendations.
 
 ![Executive Summary](Executive_Summary.png)
 
@@ -31,7 +31,7 @@ A retail company was generating **$2.29M in sales** but only retaining **12.47% 
 
 | Metric | Value |
 |--------|-------|
-| Total Rows | 9,994 orders |
+| Total Rows | 9,993 orders |
 | Unique Orders | 5,009 |
 | Unique Customers | 793 |
 | Time Period | Jan 2014 – Dec 2017 |
@@ -50,20 +50,10 @@ A retail company was generating **$2.29M in sales** but only retaining **12.47% 
 |----------|-------------|---------------|----------------------|
 | Technology | $145,455 | 17.39% | 50.8% |
 | Office Supplies | $122,491 | 17.03% | 42.8% |
-| **Furniture** | **$18,451** | **2.49%** | **6.4%** |
+| **Furniture** | **$18,463** | **2.49%** | **6.4%** |
 
 - **Technology** generates over **50% of all profit** despite not being the highest sales category
 - **Furniture** has a critically low 2.49% margin — Tables sub-category alone lost **$17,725**
-
-### 🏷️ Discount Impact on Profitability
-
-| Discount Level | Profit Margin |
-|---------------|--------------|
-| Low / No Discount (≤20%) | **16.8%** |
-| High Discount (>20%) | **2.3%** |
-
-- Orders with >20% discount operate at near-zero margins — a **14.5 percentage point drop**
-- Furniture + high discounts = the biggest profit leakage combination in the dataset
 
 ### 🌍 Regional Performance
 
