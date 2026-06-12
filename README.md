@@ -1,26 +1,8 @@
-# Sales Profitability Optimization Dashboard
-
-## Tools Used
-- Excel
-- SQL
-- Power BI
-
-## Project Objective
-Analyze sales, profit, customer behavior, regional performance and product profitability.
-
-## Key Insights
-- Technology category generated highest profit
-- High discounts negatively affected profitability
-- West region contributed highest sales
-- Top customers generated major revenue
-
-# Dashboard Screenshots
-
-## Executive Summary
-![Executive Summary](Executive_Summary.png)
-
-## Product Analysis
-![Product Analysis](Product_Analysis.png)
-
-## Customer & Region Analysis
-![Customer Region Analysis](Customer_Region_Analysis.png)
+📦 Sales-Profitability-Optimization-Dashboard
+ ┣ 📄 README.md                            ← You are here
+ ┣ 📊 Sales_Profitability_Dashboard.pbix   ← Power BI file (open in Power BI Desktop)
+ ┣ 🗃️ Sales_Profitability_SQL_Queries.sql  ← 23 SQL queries used in analysis
+ ┣ 📂 Superstore_Cleaned.csv              ← Cleaned dataset (9,994 rows)
+ ┣ 🖼️ Executive_Summary.png
+ ┣ 🖼️ Product_Analysis.png
+ ┗ 🖼️ Customer_Region_Analysis.png
