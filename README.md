@@ -2,7 +2,7 @@
 
 > **End-to-end analytics project** on 9,993 retail transactions to uncover profit leakage, identify top-performing segments, and deliver actionable business recommendations.
 
-![Executive Summary](Executive Summary.png)
+![Executive Summary](Executive_Summary.png)
 
 ---
 
@@ -90,13 +90,13 @@ A retail company was generating **$2.29M in sales** but only retaining **12.47% 
 ## 📊 Dashboard Pages
 
 ### Executive Summary
-![Executive Summary](Executive Summary.png)
+![Executive Summary](Executive_Summary.png)
 
 ### Product Analysis
-![Product Analysis](Product Analysis.png)
+![Product Analysis](Product_Analysis.png)
 
 ### Customer & Region Analysis
-![Customer Region Analysis](Customer Region Analysis.png)
+![Customer Region Analysis](Customer_Region_Analysis.png)
 
 ---
 
